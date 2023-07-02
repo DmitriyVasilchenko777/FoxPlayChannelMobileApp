@@ -1,0 +1,36 @@
+<LinearLayout 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@color/main_background_color_app"
+  	android:orientation="vertical"
+ 	android:layout_width="match_parent"
+ 	android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="50dp"
+        android:contentDescription="@string/image_logo_description"
+        android:src="@drawable/main_logo"  />
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/text_subscribe" 
+        android:textSize="30sp" 
+        android:textColor="@color/color_text_subscribe" />
+    
+    <Button 
+        android:id="@+id/button_subscribe"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center" 
+        android:text="@string/text_subscribe_button" 
+        android:textColor="@color/color_text_subscribe" 
+        android:background="@color/background_button_subscribe" />
+ 	
+</LinearLayout>

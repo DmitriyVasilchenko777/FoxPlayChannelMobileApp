@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <color name="main_background_color_app">#ef6b12</color>
+    <color name="color_text_subscribe">#fff</color>
+    <color name="background_button_subscribe">#9c2c2c</color>
+</resources>

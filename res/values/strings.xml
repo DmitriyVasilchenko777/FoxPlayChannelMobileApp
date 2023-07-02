@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">FoxPlayChannel</string>
+    <string name="image_logo_description">Изображение логотипа канала FOX-PLAY (Лиса)</string>
+    <string name="text_subscribe">Подпишись на канал!</string>
+    <string name="text_subscribe_button">Подпиcаться</string>
+</resources>
